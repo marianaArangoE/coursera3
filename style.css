@@ -1,0 +1,6 @@
+@media (min-width: 768px){
+.navbar-expand-md .navbar-nav .nav-link {
+    display: none;
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
